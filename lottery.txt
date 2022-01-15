@@ -1,0 +1,17 @@
+Ropsten blockchain
+
+0x8be49D15D27F67DE1ED4AEF151982842DE1DFD47    Simple Burnable ERC20 Token
+0xccf119D2D3d9395Ffe385B885E1Bb2cDD7beBB23    lottery
+
+for test purpose, there is no time period
+
+Simple Burnable ERC20 Token
+owner: 0x04AA0A9d06f3d7De5E0B1f3631cC428A36f2aa93
+address: 0x7A1505EF04b44379080cE401536B698e38edbA12
+
+Lottery address: 0x80E59B9560B20bab654E6e19FC0d8E419C48B347
+
+simple erc20 Token: 0xB6C811DFA352c7D0A3DA8a1bA967fB32D1D60B5c
+lottery: 0x9d70b74633f112e45691EF817D24A07860e9aa4E
+
+send: contracts, my-lastest-app
